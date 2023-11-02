@@ -1,0 +1,69 @@
+body {
+    width: 0 auto;
+    border: 5px solid blue;
+}
+
+#email {
+    text-align: justify;
+    border-radius: 10px;
+}
+
+#idade {
+    text-align: justify;
+    border-radius: 10px;
+
+}
+
+.correct {
+    color: black;
+    background-color: yellowgreen;
+    border: 1px solid blue;
+    max-width: max-content;
+}
+
+.error {
+    color: black;
+    background-color: darkred;
+    border: 1px solid blue;
+    max-width: max-content;
+}
+
+.click {
+    border: 5px solid green;
+}
+
+.noClick {
+    border: 5px solid black;
+}
+
+.visible {
+    display: block;
+}
+
+.visible2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;  
+}
+
+.visible3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#msgSpan {
+    text-align: center;
+}
+
+#dadosForm {
+    margin-top: 10px;
+}
+
+#btnForm {
+    text-align: center;
+    color: blue;
+    margin-bottom: 10px;
+}
+
+
